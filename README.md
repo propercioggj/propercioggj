@@ -8,10 +8,11 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em construir aplicações
 
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente desenvolvendo: **[portalpsicologos.com.br](http://portalpsicologos.com.br)**
-- 🌱 No momento estou aprendendo: **Tecnologias para Stack Web**
-- 👯 Procuro colaborar em: **projetos open-source ou equipes dinâmicas**
-- 💬 Pergunte-me sobre: **Arquitetura web, APIs, Front-end e Back-end**
+- Trabalho no Analista de sistema na Laboratorio Nacional De Astrofisica - Lna
+- Meu projeto atual: **[portalpsicologos.com.br](http://portalpsicologos.com.br)**
+- No momento estou aprendendo: **Tecnologias para Stack Web**
+- Procuro colaborar em: **projetos open-source ou equipes dinâmicas**
+- Pergunte-me sobre: **Arquitetura web, APIs, Front-end e Back-end**
 
 ---
 
