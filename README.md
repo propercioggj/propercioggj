@@ -8,7 +8,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em construir aplicações
 
 ## 🚀 Sobre Mim
 
-- Trabalho no Analista de sistema na Laboratorio Nacional De Astrofisica - Lna
+- Trabalho como Analista de sistema no Laboratorio Nacional De Astrofisica - LNA/MCTI
 - Meu projeto atual: **[portalpsicologos.com.br](http://portalpsicologos.com.br)**
 - No momento estou aprendendo: **Tecnologias para Stack Web**
 - Procuro colaborar em: **projetos open-source ou equipes dinâmicas**
