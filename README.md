@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Propercio Gurgel Guida Junior
 
-<!--
-**propercioggj/propercioggj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desenvolvedor Web Full Stack
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por tecnologia, focado em construir aplicações completas, do banco de dados à interface de usuário. Gosto de criar soluções eficientes e estou sempre em busca de aprimorar meus conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre Mim
+
+- 🔭 Atualmente desenvolvendo: **[portalpsicologos.com.br](http://portalpsicologos.com.br)**
+- 🌱 No momento estou aprendendo: **Tecnologias para Stack Web**
+- 👯 Procuro colaborar em: **projetos open-source ou equipes dinâmicas**
+- 💬 Pergunte-me sobre: **Arquitetura web, APIs, Front-end e Back-end**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Front-end
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,tailwind" alt="Front-end skills"/>
+</p>
+
+### Back-end
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring" alt="Back-end skills"/>
+</p>
+
+### Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Database skills"/>
+</p>
+
+### Infraestrutura
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,aws,linux,oracle" alt="DevOps skills"/>
+</p>
+
+---
